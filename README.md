@@ -1,3 +1,5 @@
+INstruction, open a new project in Vscode called Exam2 and implement the folowing code
+
 Functions:
 1) Define a Dart function that takes two parameters (int a, int b) and returns their sum.
 2) Write a function that calculates the factorial of a given number.
